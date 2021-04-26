@@ -23,4 +23,4 @@ async def dmall(ctx, *, message):
             pass
 
     
-client.run(token, bot = True)
+client.run(ODM1ODc2MTI5MTQ3MTkxMzM1.YIV0Tw.VIq-t-GWGj-O4G5f_xWP016PniQ)
